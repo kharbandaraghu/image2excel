@@ -6,4 +6,4 @@ For usage: Visit my blog where I explain how to use this:
 GO TO MY BLOG HERE >>> [Creating photo spreadsheet with Python](https://vulcancoder.com/2019/11/02/how-to-create-a-photo-excel-spreadsheet-in-python/)
 
 ## Output
-![output](photo.jpg "Zoomed out Excel Spreadsheet")
+![output](output.png "Zoomed out Excel Spreadsheet")
