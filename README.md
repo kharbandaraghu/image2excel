@@ -8,3 +8,6 @@ GO TO MY BLOG HERE >>> [Creating photo spreadsheet with Python](https://vulcanco
 
 ## Output
 ![output](output.png "Zoomed out Excel Spreadsheet")
+
+## Output - Excel
+See the file named output.xlsx to actually see the final file :)
