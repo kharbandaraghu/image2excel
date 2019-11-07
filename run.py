@@ -39,9 +39,9 @@ for row in range(scaled_image.shape[0]):
     for col in range(scaled_image.shape[1]):
 
         cell_format = workbook.add_format()
-        r = scaled_image[row,col,0]
+        b = scaled_image[row,col,0]
         g = scaled_image[row,col,1]
-        b = scaled_image[row,col,2]
+        r = scaled_image[row,col,2]
         # Getting hex code
         color = rgb2hex(r,g,b)
         cell_format.set_bg_color(color)
